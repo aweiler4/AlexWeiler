@@ -23,3 +23,6 @@ window.alert('Hey now')
 let favColor {
     red, blue, green
 }
+let favFood {
+    pizza , hamburgers, tacos
+}

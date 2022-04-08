@@ -26,3 +26,5 @@ let favColor {
 let favFood {
     pizza , hamburgers, tacos
 }
+
+let dogName = Obie;
